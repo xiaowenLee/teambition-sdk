@@ -1,4 +1,4 @@
-import { map } from 'rxjs/operators'
+import { map } from 'rxjs/operators/map'
 import { MonoTypeOperatorFunction } from 'rxjs/interfaces'
 
 import { ScenarioFieldConfigSchema } from '../../schemas'
